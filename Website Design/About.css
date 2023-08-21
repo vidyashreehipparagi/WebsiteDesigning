@@ -1,0 +1,169 @@
+﻿body {
+ 
+    background-image: url(f1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    backface-visibility: visible;
+    background-color: grey;
+    /* height:1500px;*/
+}
+
+.ml-auto {
+    margin-left: 900px;
+}
+
+.nav {
+    background-color: floralwhite;
+    height: 50px;
+    z-index: 5px;
+    background-size: cover;
+}
+
+h1 {
+    margin: 45px 20px 20px 80px;
+    color: black;
+    display: flex;
+}
+
+.res {
+    margin-left: 50px
+}
+
+.one {
+    font-weight: 700;
+    color: azure;
+    margin-left: 200px;
+}
+
+.main {
+    margin-left: 450px;
+    font-weight: 900;
+}
+
+footer.sfooter {
+    background-color: black;
+    color: aliceblue;
+    top: 200px;
+    margin-top: 200px;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+#add {
+    margin-right: 50px;
+}
+
+ul.address {
+    font-size: small;
+}
+
+div.privacy {
+    margin-top: 10px;
+}
+
+a {
+    text-underline-offset: unset;
+    color: aliceblue;
+    text-decoration: none;
+}
+.body {
+    background-image: url(f1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    backface-visibility: visible;
+    background-color: grey;
+    /* height:1500px;*/
+}
+
+.ml-auto {
+    margin-left: 900px;
+}
+
+.nav {
+    background-color: floralwhite;
+    height: 50px;
+    z-index: 5px;
+    background-size: cover;
+}
+
+h1 {
+    margin: 45px 20px 20px 80px;
+    color: lightyellow;
+    display: flex;
+}
+
+.res {
+    margin-left: 50px
+}
+
+.one {
+    font-weight: 700;
+    color: azure;
+    margin-left: 200px;
+}
+
+.main {
+    margin-left: 450px;
+    font-weight: 900;
+}
+
+footer.sfooter {
+    background-color: black;
+    color: aliceblue;
+    top: 200px;
+    margin-top: 200px;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+#add {
+    margin-right: 50px;
+}
+
+ul.address {
+    font-size: small;
+}
+
+div.privacy {
+    margin-top: 10px;
+}
+
+a {
+    text-underline-offset: unset;
+    color: aliceblue;
+    text-decoration: none;
+}
+.aboutTable {
+    color: lightyellow;
+    margin-left: 55px;
+    font-weight: 700;
+    font-size: large;
+}
+/*form mobile*/
+@media screen and (min-width:300px ) and (max-width:500px) {
+    body {
+        background-repeat: repeat-y;
+    }
+}
+/*for tab*/
+@media screen and (min-width:500px ) and (max-width:750px) {
+
+    body {
+        background-repeat: repeat-y;
+    }
+}
+
+
+
+
+
+
+
+
+

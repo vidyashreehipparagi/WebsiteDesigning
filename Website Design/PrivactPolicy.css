@@ -1,0 +1,98 @@
+﻿body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    backface-visibility: visible;
+    background-color: bisque;
+    height: 100%;
+    
+}
+
+.ml-auto {
+    margin-left: 900px;
+}
+
+.nav {
+    background-color: floralwhite;
+    height: 50px;
+    z-index: 5px;
+    background-size: cover;
+}
+
+h1 {
+    margin: 45px 20px 20px 80px;
+    color: black;
+    display: flex;
+}
+
+.res {
+    margin-left: 50px
+}
+
+.one {
+    font-weight: 700;
+    color: azure;
+    margin-left: 200px;
+}
+
+.main {
+    margin-left: 450px;
+    font-weight: 900;
+}
+
+footer.sfooter {
+    background-color: black;
+    color: aliceblue;
+    top: 800px;
+    margin-top: 200px;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+#add {
+    margin-right: 50px;
+}
+
+ul.address {
+    font-size: small;
+}
+
+div.privacy {
+    margin-top: 10px;
+}
+
+a {
+    text-underline-offset: unset;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.formlogIn {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    box-shadow: 2px;
+    margin: 163px 66px 41px 584px;
+    background-color: black;
+    color: antiquewhite;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+button.submit {
+    background-color: navajowhite;
+    color: aqua;
+}
+p {
+    margin: 50px 50px 50px 50px;
+}
+
+
